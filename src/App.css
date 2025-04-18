@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form{
+  width: 500px;
+  margin: 30px auto;
+}
+
+form input{
+  margin-bottom: 50px;
+}
+
+form input[type="button"]{
+  margin-right: 10px;
+}
